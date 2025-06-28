@@ -1,0 +1,884 @@
+[
+  {
+    "route": "東海道新幹線",
+    "station": "東京",
+    "municipality": "千代田区",
+    "prefecture": "東京都"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "品川",
+    "municipality": "港区",
+    "prefecture": "東京都"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "新横浜",
+    "municipality": "横浜市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "小田原",
+    "municipality": "小田原市",
+    "prefecture": "神奈川県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "熱海",
+    "municipality": "熱海市",
+    "prefecture": "静岡県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "三島",
+    "municipality": "三島市",
+    "prefecture": "静岡県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "新富士",
+    "municipality": "富士市",
+    "prefecture": "静岡県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "静岡",
+    "municipality": "静岡市",
+    "prefecture": "静岡県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "掛川",
+    "municipality": "掛川市",
+    "prefecture": "静岡県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "浜松",
+    "municipality": "浜松市",
+    "prefecture": "静岡県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "豊橋",
+    "municipality": "豊橋市",
+    "prefecture": "愛知県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "三河安城",
+    "municipality": "安城市",
+    "prefecture": "愛知県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "名古屋",
+    "municipality": "名古屋市",
+    "prefecture": "愛知県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "岐阜羽島",
+    "municipality": "羽島市",
+    "prefecture": "岐阜県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "米原",
+    "municipality": "米原市",
+    "prefecture": "滋賀県"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "京都",
+    "municipality": "京都市",
+    "prefecture": "京都府"
+  },
+  {
+    "route": "東海道新幹線",
+    "station": "新大阪",
+    "municipality": "大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "新大阪",
+    "municipality": "大阪市",
+    "prefecture": "大阪府"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "新神戸",
+    "municipality": "神戸市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "西明石",
+    "municipality": "明石市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "姫路",
+    "municipality": "姫路市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "相生",
+    "municipality": "相生市",
+    "prefecture": "兵庫県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "岡山",
+    "municipality": "岡山市",
+    "prefecture": "岡山県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "新倉敷",
+    "municipality": "倉敷市",
+    "prefecture": "岡山県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "福山",
+    "municipality": "福山市",
+    "prefecture": "広島県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "新尾道",
+    "municipality": "尾道市",
+    "prefecture": "広島県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "三原",
+    "municipality": "三原市",
+    "prefecture": "広島県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "東広島",
+    "municipality": "東広島市",
+    "prefecture": "広島県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "広島",
+    "municipality": "広島市",
+    "prefecture": "広島県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "新岩国",
+    "municipality": "岩国市",
+    "prefecture": "山口県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "徳山",
+    "municipality": "周南市",
+    "prefecture": "山口県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "新山口",
+    "municipality": "山口市",
+    "prefecture": "山口県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "厚狭",
+    "municipality": "山陽小野田市",
+    "prefecture": "山口県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "新下関",
+    "municipality": "下関市",
+    "prefecture": "山口県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "小倉",
+    "municipality": "北九州市",
+    "prefecture": "福岡県"
+  },
+  {
+    "route": "山陽新幹線",
+    "station": "博多",
+    "municipality": "福岡市",
+    "prefecture": "福岡県"
+  },
+  {
+    "route": "九州新幹線",
+    "station": "博多",
+    "municipality": "福岡市",
+    "prefecture": "福岡県"
+  },
+  {
+    "route": "九州新幹線",
+    "station": "新鳥栖",
+    "municipality": "鳥栖市",
+    "prefecture": "佐賀県"
+  },
+  {
+    "route": "九州新幹線",
+    "station": "久留米",
+    "municipality": "久留米市",
+    "prefecture": "福岡県"
+  },
+  {
+    "route": "九州新幹線",
+    "station": "筑後船小屋",
+    "municipality": "筑後市",
+    "prefecture": "福岡県"
+  },
+  {
+    "route": "九州新幹線",
+    "station": "新大牟田",
+    "municipality": "大牟田市",
+    "prefecture": "福岡県"
+  },
+  {
+    "route": "九州新幹線",
+    "station": "新玉名",
+    "municipality": "玉名市",
+    "prefecture": "熊本県"
+  },
+  {
+    "route": "九州新幹線",
+    "station": "熊本",
+    "municipality": "熊本市",
+    "prefecture": "熊本県"
+  },
+  {
+    "route": "九州新幹線",
+    "station": "新八代",
+    "municipality": "八代市",
+    "prefecture": "熊本県"
+  },
+  {
+    "route": "九州新幹線",
+    "station": "新水俣",
+    "municipality": "水俣市",
+    "prefecture": "熊本県"
+  },
+  {
+    "route": "九州新幹線",
+    "station": "出水",
+    "municipality": "出水市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "route": "九州新幹線",
+    "station": "川内",
+    "municipality": "薩摩川内市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "route": "九州新幹線",
+    "station": "鹿児島中央",
+    "municipality": "鹿児島市",
+    "prefecture": "鹿児島県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "東京",
+    "municipality": "千代田区",
+    "prefecture": "東京都"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "上野",
+    "municipality": "台東区",
+    "prefecture": "東京都"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "大宮",
+    "municipality": "さいたま市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "小山",
+    "municipality": "小山市",
+    "prefecture": "栃木県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "宇都宮",
+    "municipality": "宇都宮市",
+    "prefecture": "栃木県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "那須塩原",
+    "municipality": "那須塩原市",
+    "prefecture": "栃木県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "新白河",
+    "municipality": "白河市",
+    "prefecture": "福島県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "郡山",
+    "municipality": "郡山市",
+    "prefecture": "福島県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "福島",
+    "municipality": "福島市",
+    "prefecture": "福島県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "白石蔵王",
+    "municipality": "白石市",
+    "prefecture": "宮城県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "仙台",
+    "municipality": "仙台市",
+    "prefecture": "宮城県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "古川",
+    "municipality": "大崎市",
+    "prefecture": "宮城県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "くりこま高原",
+    "municipality": "栗原市",
+    "prefecture": "宮城県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "一ノ関",
+    "municipality": "一関市",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "水沢江刺",
+    "municipality": "奥州市",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "北上",
+    "municipality": "北上市",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "新花巻",
+    "municipality": "花巻市",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "盛岡",
+    "municipality": "盛岡市",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "いわて沼宮内",
+    "municipality": "岩手町",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "二戸",
+    "municipality": "二戸市",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "八戸",
+    "municipality": "八戸市",
+    "prefecture": "青森県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "七戸十和田",
+    "municipality": "七戸町",
+    "prefecture": "青森県"
+  },
+  {
+    "route": "東北新幹線",
+    "station": "新青森",
+    "municipality": "青森市",
+    "prefecture": "青森県"
+  },
+  {
+    "route": "北海道新幹線",
+    "station": "新青森",
+    "municipality": "青森市",
+    "prefecture": "青森県"
+  },
+  {
+    "route": "北海道新幹線",
+    "station": "奥津軽いまべつ",
+    "municipality": "今別町",
+    "prefecture": "青森県"
+  },
+  {
+    "route": "北海道新幹線",
+    "station": "木古内",
+    "municipality": "木古内町",
+    "prefecture": "北海道"
+  },
+  {
+    "route": "北海道新幹線",
+    "station": "新函館北斗",
+    "municipality": "北斗市",
+    "prefecture": "北海道"
+  },
+  {
+    "route": "上越新幹線",
+    "station": "東京",
+    "municipality": "千代田区",
+    "prefecture": "東京都"
+  },
+  {
+    "route": "上越新幹線",
+    "station": "上野",
+    "municipality": "台東区",
+    "prefecture": "東京都"
+  },
+  {
+    "route": "上越新幹線",
+    "station": "大宮",
+    "municipality": "さいたま市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "route": "上越新幹線",
+    "station": "熊谷",
+    "municipality": "熊谷市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "route": "上越新幹線",
+    "station": "本庄早稲田",
+    "municipality": "本庄市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "route": "上越新幹線",
+    "station": "高崎",
+    "municipality": "高崎市",
+    "prefecture": "群馬県"
+  },
+  {
+    "route": "上越新幹線",
+    "station": "上毛高原",
+    "municipality": "みなかみ町",
+    "prefecture": "群馬県"
+  },
+  {
+    "route": "上越新幹線",
+    "station": "越後湯沢",
+    "municipality": "湯沢町",
+    "prefecture": "新潟県"
+  },
+  {
+    "route": "上越新幹線",
+    "station": "浦佐",
+    "municipality": "南魚沼市",
+    "prefecture": "新潟県"
+  },
+  {
+    "route": "上越新幹線",
+    "station": "長岡",
+    "municipality": "長岡市",
+    "prefecture": "新潟県"
+  },
+  {
+    "route": "上越新幹線",
+    "station": "燕三条",
+    "municipality": "三条市",
+    "prefecture": "新潟県"
+  },
+  {
+    "route": "上越新幹線",
+    "station": "新潟",
+    "municipality": "新潟市",
+    "prefecture": "新潟県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "東京",
+    "municipality": "千代田区",
+    "prefecture": "東京都"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "上野",
+    "municipality": "台東区",
+    "prefecture": "東京都"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "大宮",
+    "municipality": "さいたま市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "熊谷",
+    "municipality": "熊谷市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "本庄早稲田",
+    "municipality": "本庄市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "高崎",
+    "municipality": "高崎市",
+    "prefecture": "群馬県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "安中榛名",
+    "municipality": "安中市",
+    "prefecture": "群馬県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "軽井沢",
+    "municipality": "軽井沢町",
+    "prefecture": "長野県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "佐久平",
+    "municipality": "佐久市",
+    "prefecture": "長野県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "上田",
+    "municipality": "上田市",
+    "prefecture": "長野県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "長野",
+    "municipality": "長野市",
+    "prefecture": "長野県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "飯山",
+    "municipality": "飯山市",
+    "prefecture": "長野県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "上越妙高",
+    "municipality": "上越市",
+    "prefecture": "新潟県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "糸魚川",
+    "municipality": "糸魚川市",
+    "prefecture": "新潟県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "黒部宇奈月温泉",
+    "municipality": "黒部市",
+    "prefecture": "富山県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "富山",
+    "municipality": "富山市",
+    "prefecture": "富山県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "新高岡",
+    "municipality": "高岡市",
+    "prefecture": "富山県"
+  },
+  {
+    "route": "北陸新幹線",
+    "station": "金沢",
+    "municipality": "金沢市",
+    "prefecture": "石川県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "東京",
+    "municipality": "千代田区",
+    "prefecture": "東京都"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "上野",
+    "municipality": "台東区",
+    "prefecture": "東京都"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "大宮",
+    "municipality": "さいたま市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "小山",
+    "municipality": "小山市",
+    "prefecture": "栃木県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "宇都宮",
+    "municipality": "宇都宮市",
+    "prefecture": "栃木県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "那須塩原",
+    "municipality": "那須塩原市",
+    "prefecture": "栃木県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "新白河",
+    "municipality": "白河市",
+    "prefecture": "福島県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "郡山",
+    "municipality": "郡山市",
+    "prefecture": "福島県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "福島",
+    "municipality": "福島市",
+    "prefecture": "福島県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "米沢",
+    "municipality": "米沢市",
+    "prefecture": "山形県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "高畠",
+    "municipality": "高畠町",
+    "prefecture": "山形県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "赤湯",
+    "municipality": "南陽市",
+    "prefecture": "山形県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "かみのやま温泉",
+    "municipality": "上山市",
+    "prefecture": "山形県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "山形",
+    "municipality": "山形市",
+    "prefecture": "山形県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "天童",
+    "municipality": "天童市",
+    "prefecture": "山形県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "さくらんぼ東根",
+    "municipality": "東根市",
+    "prefecture": "山形県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "村山",
+    "municipality": "村山市",
+    "prefecture": "山形県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "大石田",
+    "municipality": "大石田町",
+    "prefecture": "山形県"
+  },
+  {
+    "route": "山形新幹線",
+    "station": "新庄",
+    "municipality": "新庄市",
+    "prefecture": "山形県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "東京",
+    "municipality": "千代田区",
+    "prefecture": "東京都"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "上野",
+    "municipality": "台東区",
+    "prefecture": "東京都"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "大宮",
+    "municipality": "さいたま市",
+    "prefecture": "埼玉県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "小山",
+    "municipality": "小山市",
+    "prefecture": "栃木県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "宇都宮",
+    "municipality": "宇都宮市",
+    "prefecture": "栃木県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "那須塩原",
+    "municipality": "那須塩原市",
+    "prefecture": "栃木県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "新白河",
+    "municipality": "白河市",
+    "prefecture": "福島県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "郡山",
+    "municipality": "郡山市",
+    "prefecture": "福島県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "福島",
+    "municipality": "福島市",
+    "prefecture": "福島県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "白石蔵王",
+    "municipality": "白石市",
+    "prefecture": "宮城県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "仙台",
+    "municipality": "仙台市",
+    "prefecture": "宮城県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "古川",
+    "municipality": "大崎市",
+    "prefecture": "宮城県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "くりこま高原",
+    "municipality": "栗原市",
+    "prefecture": "宮城県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "一ノ関",
+    "municipality": "一関市",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "水沢江刺",
+    "municipality": "奥州市",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "北上",
+    "municipality": "北上市",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "新花巻",
+    "municipality": "花巻市",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "盛岡",
+    "municipality": "盛岡市",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "雫石",
+    "municipality": "雫石町",
+    "prefecture": "岩手県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "田沢湖",
+    "municipality": "仙北市",
+    "prefecture": "秋田県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "角館",
+    "municipality": "仙北市",
+    "prefecture": "秋田県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "大曲",
+    "municipality": "大仙市",
+    "prefecture": "秋田県"
+  },
+  {
+    "route": "秋田新幹線",
+    "station": "秋田",
+    "municipality": "秋田市",
+    "prefecture": "秋田県"
+  }
+]

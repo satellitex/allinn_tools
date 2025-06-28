@@ -1,0 +1,32 @@
+[project]
+name = "allinn-tools"
+version = "0.1.0"
+description = "新幹線停車駅 × 自治体人口密度 CSV ジェネレータ"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.0.0",
+    "requests>=2.31.0",
+    "beautifulsoup4>=4.12.0",
+    "python-dateutil>=2.8.0",
+    "fire>=0.5.0"
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0"
+]
+
+[project.scripts]
+allinn = "allinn_tools.cli:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.uv]
+dev-dependencies = [
+    "pytest>=7.0.0",
+    "pytest-cov>=4.0.0"
+]

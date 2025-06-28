@@ -26,6 +26,10 @@ source .venv/bin/activate  # Windows: .venv\Scripts\activate
 
 # 依存関係のインストール
 uv pip install -e .
+
+# 環境変数の設定
+cp .env.sample .env
+# .env ファイルを編集して ESTAT_API_KEY を設定
 ```
 
 ## 基本的な使い方
@@ -46,11 +50,14 @@ allinn shinkansen --output results.csv
 
 ### shinkansen
 
-新幹線停車駅の人口密度データを収集してCSVファイルを生成します。
+新幹線停車駅の人口・面積・人口密度データを収集してCSVファイルを生成します（e-Stat API使用）。
 
 ```bash
-# 基本的な使用方法
+# 基本的な使用方法（.env ファイルでAPIキー設定済み）
 allinn shinkansen
+
+# APIキーを直接指定（.env ファイルを使わない場合）
+allinn shinkansen --api_key "your_api_key_here"
 
 # オプション付きでの実行
 allinn shinkansen --output custom.csv --route_filter "東海道,山陽" --sleep 1.0
@@ -60,7 +67,10 @@ allinn shinkansen --output custom.csv --route_filter "東海道,山陽" --sleep 
 
 - `--output`: 出力CSVファイルパス（デフォルト: `shinkansen_population_density.csv`）
 - `--route_filter`: 対象路線をカンマ区切りで指定（例: `"東海道,山陽"`）
-- `--sleep`: Wikipediaへのリクエスト間隔（秒、デフォルト: 0.5）
+- `--sleep`: e-Stat APIへのリクエスト間隔（秒、デフォルト: 0.5）
+- `--api_key`: e-Stat API キー（.env ファイルの `ESTAT_API_KEY` からも取得可能）
+
+**注意:** e-Stat API キーが必要です。[こちら](https://www.e-stat.go.jp/api/)から取得し、`.env` ファイルに設定してください。
 
 詳細な仕様については [docs/shinkansen.md](docs/shinkansen.md) を参照してください。
 

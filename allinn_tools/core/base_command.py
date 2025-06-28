@@ -21,7 +21,8 @@ class BaseCommand(ABC):
             )
             handler.setFormatter(formatter)
             logger.addHandler(handler)
-            logger.setLevel(logging.INFO)
+            # デバッグ情報も表示するためにDEBUGレベルに設定
+            logger.setLevel(logging.DEBUG)
         return logger
     
     @property

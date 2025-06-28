@@ -8,4 +8,25 @@ wheels/
 
 # Virtual environments
 .venv
-output/** */
+
+# Environment variables (sensitive data)
+.env
+
+# Output files
+outputs/
+*.csv
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
